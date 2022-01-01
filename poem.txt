@@ -6,6 +6,8 @@ GREEN
 PURPLE
 indigo
 Unicorn
+pons 
 ORANGE 
 THESE ARE THE COLOR OF THE RAINBOW 
 And unicorn
+Add pons 
